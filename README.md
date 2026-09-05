@@ -34,7 +34,7 @@ currently:  turning ideas into working code
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220">
+<img src="./assets/core.svg" width="220">
 
 </td>
 </tr>

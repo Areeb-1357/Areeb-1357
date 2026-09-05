@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:0d1117&height=200&section=header&text=AREEB&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=aspiring%20developer%20%7C%20python%20%7C%20building%20in%20public&descAlignY=54&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:0d1117&height=210&section=header&text=AREEB&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=aspiring%20developer%20%7C%20python%20%7C%20building%20in%20public&descAlignY=56&descAlign=50" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;%3E+aspiring+developer+%E2%80%94+python+first;%24+status+--check;%3E+compiling_ideas...+%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%5D+72%25;%24+cat+motto.txt;%3E+ship+small.+ship+often.+iterate." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&height=60&lines=%24+whoami;%3E+aspiring+developer+%E2%80%94+python+first;%24+status+--check;%3E+compiling_ideas...+%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%5D+72%25;%24+cat+motto.txt;%3E+ship+small.+ship+often.+iterate." alt="Typing SVG" />
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
+<div align="center">
 
 ### `$ cat about.yaml`
+
+</div>
 
 ```yaml
 identity:
@@ -38,15 +38,6 @@ now:
   mindset: "compiling_ideas"
 ```
 
-</td>
-<td width="42%" valign="top" align="center">
-
-<img src="./assets/core.svg" width="230">
-
-</td>
-</tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
 
 <div align="center">
@@ -55,27 +46,7 @@ now:
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux&theme=dark" />
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
-
-<div align="center">
-
-### 📈 `contributions --animate`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Areeb-1357/Areeb-1357/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Areeb-1357/Areeb-1357/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Areeb-1357/Areeb-1357/output/github-snake.svg" width="100%" />
-</picture>
-
-<sub>generated automatically every day by a GitHub Action — the snake eats your real commit graph</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
-
-<div align="center">
+<br/><br/>
 
 ### 📊 `stats.exe`
 
@@ -86,11 +57,7 @@ now:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeb-1357&theme=react-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true&area=true" width="97%" />
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
-
-<div align="center">
+<br/>
 
 ### 🏆 `trophy --unlock`
 

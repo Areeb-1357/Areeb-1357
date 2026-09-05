@@ -1,40 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:0d1117&height=220&section=header&text=AREEB&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%2C%20one%20commit%20at%20a%20time&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:0d1117&height=200&section=header&text=AREEB&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=aspiring%20developer%20%7C%20python%20%7C%20building%20in%20public&descAlignY=54&descAlign=50" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&random=false&width=600&height=50&lines=%3E+initializing+developer...;%3E+status%3A+learning_python;%3E+mindset%3A+compiling_ideas;%3E+ready+to+ship+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;%3E+aspiring+developer+%E2%80%94+python+first;%24+status+--check;%3E+compiling_ideas...+%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%5D+72%25;%24+cat+motto.txt;%3E+ship+small.+ship+often.+iterate." alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=0d1117&color=00F7FF)](https://your-portfolio-link.here)
-
-<sub>↑ everything I'm building lives there — projects, live demos, the full story ↑</sub>
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0d1117)](https://github.com/Areeb-1357)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Areeb-1357&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)
 
 </div>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
-
-<br/>
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-### `whoami`
+### `$ cat about.yaml`
 
 ```yaml
-role:       aspiring developer
-focus:      python, clean logic, building real things
-philosophy: ship small, ship often, learn by doing
-currently:  turning ideas into working code
+identity:
+  role: "aspiring developer"
+  languages: ["Python", "HTML", "CSS", "JavaScript"]
+  learning_style: "build first, understand deeply, refine later"
+
+principles:
+  - "readable code > clever code"
+  - "ship something small every week"
+  - "the portfolio is the source of truth — check it"
+
+now:
+  building: "next project loading..."
+  mindset: "compiling_ideas"
 ```
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="./assets/core.svg" width="220">
+<img src="./assets/core.svg" width="230">
 
 </td>
 </tr>
@@ -42,28 +49,52 @@ currently:  turning ideas into working code
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
 
-<br/>
-
 <div align="center">
 
-### 🛠️ `tech_stack.render()`
+### 🛠️ `stack --list`
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux&theme=dark" />
 
 </div>
 
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
-<br/>
+
+<div align="center">
+
+### 📈 `contributions --animate`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Areeb-1357/Areeb-1357/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Areeb-1357/Areeb-1357/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Areeb-1357/Areeb-1357/output/github-snake.svg" width="100%" />
+</picture>
+
+<sub>generated automatically every day by a GitHub Action — the snake eats your real commit graph</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
 
 <div align="center">
 
 ### 📊 `stats.exe`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Areeb-1357&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&border_radius=12" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeb-1357&theme=react&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border_radius=12" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Areeb-1357&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb-1357&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&border_radius=12" width="38%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeb-1357&theme=react-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeb-1357&theme=react&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border=0d1117&border_radius=12" width="60%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeb-1357&theme=react-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true&area=true" width="97%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
+
+<div align="center">
+
+### 🏆 `trophy --unlock`
+
+<img src="https://github-profile-trophy.vercel.app/?username=Areeb-1357&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -72,15 +103,15 @@ currently:  turning ideas into working code
 <div align="center">
 <br/>
 
-### 📡 `let's connect`
+### 📡 `connect --with=me`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio-link.here)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Areeb-1357)
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:0d1117&height=110&section=footer" width="100%"/>
 
-<sub>⚡ profile compiled at runtime — thanks for stopping by ⚡</sub>
+<sub>⚡ this profile is a living build — check back, it keeps shipping ⚡</sub>
 
 </div>

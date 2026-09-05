@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=0d1117&color=00F7FF)]((https://areeb-1357.github.io/))
+[![Portfolio](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=0d1117&color=00F7FF)](https://areeb-1357.github.io/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0d1117)](https://github.com/Areeb-1357)
 &nbsp;

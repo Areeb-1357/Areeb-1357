@@ -1,44 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:0d1117&height=210&section=header&text=AREEB&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=aspiring%20developer%20%7C%20python%20%7C%20building%20in%20public&descAlignY=56&descAlign=50" width="100%" />
+<img src="./banner.svg" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&height=60&lines=%24+whoami;%3E+aspiring+developer+%E2%80%94+python+first;%24+status+--check;%3E+compiling_ideas...+%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%5D+72%25;%24+cat+motto.txt;%3E+ship+small.+ship+often.+iterate." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&multiline=true&width=820&height=140&lines=%24+ssh+root%40areeb.dev;%3E+authenticating...+%5BACCESS+GRANTED%5D;%24+scan+--target=self;%3E+aspiring+developer+%E2%80%94+python+first;%24+trace+--interests;%3E+ai+%2F+ml+%2B+cybersecurity+fundamentals;%24+decrypt+motto.enc;%3E+ship+small.+ship+often.+iterate.;%24+_" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=0d1117&color=00F7FF)](https://areeb-1357.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00FF9C?style=for-the-badge&labelColor=0d1117&color=00FF9C)](https://areeb-1357.github.io/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0d1117)](https://github.com/Areeb-1357)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0d1117)](https://github.com/Areeb-1357)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Areeb-1357&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Areeb-1357&style=for-the-badge&color=8A2BE2&labelColor=0d1117&label=VISITORS)
+&nbsp;
+![Status](https://img.shields.io/badge/UPLINK-ACTIVE-00FF9C?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-### `$ cat about.yaml`
-
-</div>
+### `$ cat identity.cfg`
 
 ```yaml
-identity:
-  role: "aspiring developer"
-  languages: ["Python", "HTML", "CSS", "JavaScript"]
-  learning_style: "build first, understand deeply, refine later"
+role: "aspiring developer"
+based_in: "India"
+languages: ["Python", "HTML", "CSS", "JavaScript"]
+interest_vectors:
+  - "artificial intelligence"
+  - "cybersecurity fundamentals"
+  - "clean, readable systems"
+
+learning_protocol: >
+  build first, break it, understand deeply,
+  refine later — loop forever
 
 principles:
   - "readable code > clever code"
   - "ship something small every week"
-  - "the portfolio is the source of truth — check it"
+  - "the portfolio is the source of truth"
 
-now:
-  building: "next project loading..."
-  mindset: "compiling_ideas"
+session:
+  status: "compiling_ideas"
+  mindset: "curious.exe"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
+</td>
+<td width="50%" valign="top">
+
+### `$ whoami --verbose`
+
+```
+┌──────────────────────────────┐
+│  USER      : areeb            │
+│  ROLE      : dev_in_training  │
+│  CLEARANCE : level_1          │
+│  FOCUS     : ai / security    │
+│  UPTIME    : still_learning   │
+│  STATUS    : ● ONLINE         │
+└──────────────────────────────┘
+
+> encryption ......... enabled
+> curiosity_module .... maxed
+> shipping_streak ..... active
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
 
 <div align="center">
 
@@ -48,37 +81,36 @@ now:
 
 <br/><br/>
 
-### 📊 `stats.exe`
+### 📊 `stats.exe --deep-scan`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Areeb-1357&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb-1357&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&border_radius=12" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Areeb-1357&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb-1357&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&border_radius=12" width="38%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeb-1357&theme=react&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border=0d1117&border_radius=12" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeb-1357&theme=react&hide_border=true&background=0d1117&ring=8A2BE2&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=c9d1d9&border=0d1117&border_radius=12" width="60%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeb-1357&theme=react-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true&area=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeb-1357&theme=react-dark&bg_color=0d1117&color=00FF9C&line=8A2BE2&point=ffffff&hide_border=true&area=true" width="97%" />
 
 <br/>
 
-### 🏆 `trophy --unlock`
+### 🏆 `trophy --unlock --rare`
 
 <img src="https://github-profile-trophy.vercel.app/?username=Areeb-1357&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
 
 <div align="center">
-<br/>
 
 ### 📡 `connect --with=me`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://areeb-1357.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Areeb-1357)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://areeb-1357.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/Areeb-1357)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:0d1117&height=110&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=600&lines=this+profile+is+a+living+build...;check+back+%E2%80%94+it+keeps+shipping." alt="Footer Typing SVG" />
 
-<sub>⚡ this profile is a living build — check back, it keeps shipping ⚡</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=footer" width="100%"/>
 
 </div>

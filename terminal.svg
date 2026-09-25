@@ -1,0 +1,228 @@
+<svg viewBox="0 0 940 880" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'JetBrains Mono', 'Consolas', monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyMmU0M2U2Zi04YzRlLTQ4YWQtYTIyMC1kNThmYTgxYWE4ODYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCY8NbfDQYVV0s02jCBUdu0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3YmNiYWMzNS1iOGQ2LTQ2NTEtYWFjNi01MzdlN2ZmOTM2ZmVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNotYKMJe87Zl+cEsaTdOGRIgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggJum+biTB1Y9JGjw7aBSFuN17lwkzklLcetl+PvNVNzCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaO+dxN353j2TRrvr81LlNOsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCkJzFanocXBli5QerFfK4ac+DP8pRaKvIicpJ/JynKwmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjAZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjIyZTQzZTZmLThjNGUtNDhhZC1hMjIwLWQ1OGZhODFhYTg4Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmU4OTM0ZmE3LWExZWEtNDg3OS1iYTNmLTQxYTM5MGE1Mzk2YnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAm6b5uJMHVj0kaPDtoFIW43XuXCTOSUtx62X4+81U3MKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggKLw9VAvJZeUmqhc2eBXzXVm80Gd8A5dKRN5RwO51hRuiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggiK41Jw3usRecZa9cgwPc0snbJdOlEARdMeUBbjOFACR0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJvIJ8Ej8fJ80Njhu6xXABKoMyqDJ4xuEsGJJGrIrShNkusKHT68eQr9CzXrb60eu4p5W3IX8gFrTvd1xN4D+rM=</c2pa:manifest></metadata>
+  <defs>
+    <style>
+      .win   { fill: #1a1b26; }
+      .top   { fill: #16161e; }
+      .muted { fill: #565f89; }
+      .fg    { fill: #c0caf5; }
+      .blue  { fill: #7aa2f7; }
+      .green { fill: #9ece6a; }
+      .purple{ fill: #bb9af7; }
+      .yellow{ fill: #e0af68; }
+      t { font-size: 16px; }
+    </style>
+  </defs>
+
+  <!-- window chrome (static) -->
+  <rect x="0" y="0" width="940" height="880" rx="14" class="win"/>
+  <rect x="0" y="0" width="940" height="40" rx="14" class="top"/>
+  <rect x="0" y="26" width="940" height="14" class="top"/>
+  <circle cx="28" cy="20" r="6" fill="#f7768e"/>
+  <circle cx="50" cy="20" r="6" fill="#e0af68"/>
+  <circle cx="72" cy="20" r="6" fill="#9ece6a"/>
+  <text x="470" y="25" text-anchor="middle" class="muted"><tspan style="font-size:14px">Areeb-1357 / README.md</tspan></text>
+
+  <text x="34" y="76" class="green"><tspan>●</tspan></text>
+  <text x="52" y="76" class="blue"><tspan style="font-size:17px">[0] areeb@arch:~</tspan></text>
+  <text x="906" y="76" text-anchor="end" class="muted"><tspan style="font-size:15px">tokyonight · 2026-09-25</tspan></text>
+
+  <!-- 1: whoami prompt -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.01364;0.01364;1" values="0;0;1;1"/>
+    <text x="34" y="122"><tspan class="purple">&gt; </tspan><tspan class="fg">whoami</tspan></text>
+  </g>
+
+  <!-- 2: whoami response -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.04545;0.04545;1" values="0;0;1;1"/>
+    <text x="34" y="150"><tspan class="blue">areeb basheer</tspan><tspan class="muted"> — aiml student · python tooling · web dev · India</tspan></text>
+  </g>
+
+  <!-- 3: nmap prompt -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.08182;0.08182;1" values="0;0;1;1"/>
+    <text x="34" y="192"><tspan class="purple">&gt; </tspan><tspan class="fg">nmap -sV localhost</tspan></text>
+  </g>
+
+  <!-- 4: table header -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.11818;0.11818;1" values="0;0;1;1"/>
+    <text x="34" y="222">
+      <tspan class="muted" x="34">PORT</tspan>
+      <tspan class="muted" x="150">STATE</tspan>
+      <tspan class="muted" x="250">SERVICE</tspan>
+      <tspan class="muted" x="400">VERSION</tspan>
+    </text>
+  </g>
+
+  <!-- 5: row1 -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.13636;0.13636;1" values="0;0;1;1"/>
+    <text x="34" y="250">
+      <tspan class="fg" x="34">22/tcp</tspan>
+      <tspan class="green" x="150">open</tspan>
+      <tspan class="blue" x="250">python</tspan>
+      <tspan class="muted" x="400">scripting · automation · CLI tools</tspan>
+    </text>
+  </g>
+
+  <!-- 6: row2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.15455;0.15455;1" values="0;0;1;1"/>
+    <text x="34" y="278">
+      <tspan class="fg" x="34">80/tcp</tspan>
+      <tspan class="green" x="150">open</tspan>
+      <tspan class="blue" x="250">web</tspan>
+      <tspan class="muted" x="400">html · css · js</tspan>
+    </text>
+  </g>
+
+  <!-- 7: row3 -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.17273;0.17273;1" values="0;0;1;1"/>
+    <text x="34" y="306">
+      <tspan class="fg" x="34">443/tcp</tspan>
+      <tspan class="green" x="150">open</tspan>
+      <tspan class="blue" x="250">ai-ml</tspan>
+      <tspan class="muted" x="400">numpy · pandas · sklearn (learning)</tspan>
+    </text>
+  </g>
+
+  <!-- 8: row4 -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.19091;0.19091;1" values="0;0;1;1"/>
+    <text x="34" y="334">
+      <tspan class="fg" x="34">1337/tcp</tspan>
+      <tspan class="green" x="150">open</tspan>
+      <tspan class="blue" x="250">dsa</tspan>
+      <tspan class="muted" x="400">leetcode · always grinding</tspan>
+    </text>
+  </g>
+
+  <!-- 9: summary -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.21818;0.21818;1" values="0;0;1;1"/>
+    <text x="34" y="366" class="muted"><tspan>4 services up — host is very much alive.</tspan></text>
+  </g>
+
+  <!-- 10: git log prompt -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.25455;0.25455;1" values="0;0;1;1"/>
+    <text x="34" y="408"><tspan class="purple">&gt; </tspan><tspan class="fg">git log --oneline -5</tspan></text>
+  </g>
+
+  <!-- 11-15: commits -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.29091;0.29091;1" values="0;0;1;1"/>
+    <text x="34" y="436"><tspan class="yellow">a1f9c3e</tspan><tspan class="muted"> feat: add category totals to expense tracker</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.30455;0.30455;1" values="0;0;1;1"/>
+    <text x="34" y="462"><tspan class="yellow">7b2e88d</tspan><tspan class="muted"> feat: DEADLOOP // open-world map pass</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.31818;0.31818;1" values="0;0;1;1"/>
+    <text x="34" y="488"><tspan class="yellow">4d61a0f</tspan><tspan class="muted"> feat: decision agent - comparison scoring</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.33182;0.33182;1" values="0;0;1;1"/>
+    <text x="34" y="514"><tspan class="yellow">9c0e2f1</tspan><tspan class="muted"> style: portfolio project card refresh</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.34545;0.34545;1" values="0;0;1;1"/>
+    <text x="34" y="540"><tspan class="yellow">e5a1d77</tspan><tspan class="muted"> chore: more DSA reps on LeetCode</tspan></text>
+  </g>
+
+  <!-- 16: skills prompt -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.37273;0.37273;1" values="0;0;1;1"/>
+    <text x="34" y="582"><tspan class="purple">&gt; </tspan><tspan class="fg">cat skills.txt</tspan></text>
+  </g>
+
+  <!-- 17-19: skills output -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.40909;0.40909;1" values="0;0;1;1"/>
+    <text x="34" y="610"><tspan class="muted">languages </tspan><tspan class="fg">: python, html, css, javascript</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.42273;0.42273;1" values="0;0;1;1"/>
+    <text x="34" y="636"><tspan class="muted">tools     </tspan><tspan class="fg">: git, github, vscode</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.43636;0.43636;1" values="0;0;1;1"/>
+    <text x="34" y="662"><tspan class="muted">currently </tspan><tspan class="fg">: dsa · ml foundations · web projects</tspan></text>
+  </g>
+
+  <!-- 20: exploit prompt -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.47273;0.47273;1" values="0;0;1;1"/>
+    <text x="34" y="704"><tspan class="purple">&gt; </tspan><tspan class="fg">sudo ./exploit --target comfort_zone</tspan></text>
+  </g>
+
+  <!-- 21: password -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.50909;0.50909;1" values="0;0;1;1"/>
+    <text x="34" y="732" class="muted"><tspan>[sudo] password for areeb: </tspan><tspan class="fg">········</tspan></text>
+  </g>
+
+  <!-- 22: payload label + bar bg -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.52727;0.52727;1" values="0;0;1;1"/>
+    <text x="34" y="760" class="green"><tspan>[+] payload delivered [</tspan></text>
+    <rect x="248" y="748" width="220" height="16" rx="2" fill="#292e42"/>
+  </g>
+
+  <!-- bar fill -->
+  <rect x="248" y="748" width="0" height="16" rx="2" fill="#9ece6a">
+    <animate attributeName="width" dur="22s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.53636;0.6;1" values="0;0;220;220"/>
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.53636;0.53636;1" values="0;0;1;1"/>
+  </rect>
+
+  <!-- closing bracket + percent -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.6;0.6;1" values="0;0;1;1"/>
+    <text x="474" y="760" class="green"><tspan>] 100%</tspan></text>
+  </g>
+
+  <!-- 23: persistence -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.62273;0.62273;1" values="0;0;1;1"/>
+    <text x="34" y="788"><tspan class="green">[+] persistence established</tspan><tspan class="muted"> — learning daemon is now running.</tspan></text>
+  </g>
+
+  <!-- 24: final blinking prompt -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.65;0.65;1" values="0;0;1;1"/>
+    <text x="34" y="824" class="purple">
+      <tspan>&gt;</tspan>
+      <animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;0;1"/>
+    </text>
+  </g>
+</svg>

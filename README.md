@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&multiline=true&width=820&height=140&lines=%24+ssh+root%40areeb.dev;%3E+authenticating...+%5BACCESS+GRANTED%5D;%24+scan+--target=self;%3E+aspiring+developer+%E2%80%94+python+first;%24+trace+--interests;%3E+ai+%2F+ml+%2B+cybersecurity+fundamentals;%24+decrypt+motto.enc;%3E+ship+small.+ship+often.+iterate.;%24+_" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/Areeb-1357/Areeb-1357/main/assets/terminal.svg" alt="Animated terminal: whoami, nmap scan, exploit run — Areeb Basheer's stack and status" width="729" />
 
 <br/>
 
@@ -16,22 +14,22 @@
 
 </div>
 
+I'm an **AIML student** who drifted into code by curiosity and stayed for the craft. My work lives somewhere between experimenting and shipping — learning how things work by building small, honest versions of them, breaking them on purpose, and occasionally finishing something that runs.
+
+<sub>Everything below is generated straight from what's actually on my [portfolio](https://areeb-1357.github.io/) — no filler, no vaporware.</sub>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### `$ cat identity.cfg`
+## `$ cat identity.cfg`
 
 ```yaml
-role: "aspiring developer"
+role: "aiml student · web dev enthusiast"
 based_in: "India"
 languages: ["Python", "HTML", "CSS", "JavaScript"]
 interest_vectors:
-  - "artificial intelligence"
+  - "artificial intelligence / machine learning"
+  - "web development"
   - "cybersecurity fundamentals"
-  - "clean, readable systems"
 
 learning_protocol: >
   build first, break it, understand deeply,
@@ -43,45 +41,60 @@ principles:
   - "the portfolio is the source of truth"
 
 session:
-  status: "compiling_ideas"
+  status: "learning & building"
   mindset: "curious.exe"
 ```
 
-</td>
-<td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
 
-### `$ whoami --verbose`
+## `$ whoami --verbose`
 
 ```
 ┌──────────────────────────────┐
-│  USER      : areeb            │
-│  ROLE      : dev_in_training  │
+│  USER      : areeb basheer    │
+│  ROLE      : aiml student     │
 │  CLEARANCE : level_1          │
-│  FOCUS     : ai / security    │
+│  FOCUS     : ai / ml / web    │
 │  UPTIME    : still_learning   │
 │  STATUS    : ● ONLINE         │
 └──────────────────────────────┘
 
-> encryption ......... enabled
 > curiosity_module .... maxed
 > shipping_streak ..... active
+> next_up ............. first ML models
 ```
 
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
-
-<div align="center">
-
-### 🛠️ `stack --list`
+## `$ stack --list`
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux&theme=dark" />
 
-<br/><br/>
+| tool | comfort |
+|---|---|
+| 🐍 Python | `███████░░░` 70% — AI/ML foundations, scripting, core logic |
+| ⚡ JavaScript | `█████░░░░░` 50% — dynamic, interactive pages |
+| 🎨 HTML & CSS | `████████░░` 80% — dark, modern interfaces from scratch |
+| 🔧 Git & GitHub | `█████░░░░░` 50% — version control, shipping to Pages |
 
-### 📊 `stats.exe --deep-scan`
+**next in the queue:** DSA · Java (OOP) · SQL · ML models (regression & classification) · FastAPI
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
+
+## `$ cat path.log`
+
+| step | status |
+|---|---|
+| 01 · Programming foundations | ✅ done |
+| 02 · First real build (CLI expense tracker) | ✅ done |
+| 03 · Into the browser (calculator, quiz app) | ✅ done |
+| 04 · Data & the maths behind ML | 🟡 in progress |
+| 05 · First models (regression, classification) | ⬜ next |
+| 06 · A model with a front end | ⬜ planned |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
+
+## `$ stats.exe --deep-scan`
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Areeb-1357&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb-1357&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&border_radius=12" width="38%" />
@@ -98,19 +111,38 @@ session:
 
 </div>
 
+<sub>Stats update automatically — this card is pulled live from GitHub, not hardcoded.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
+
+## `$ python scripts/snake.py`
+
+<sub>Built from my real contribution graph — the snake eats it, regenerated automatically every day by a GitHub Action in this repo.</sub>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Areeb-1357/Areeb-1357/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Areeb-1357/Areeb-1357/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Areeb-1357/Areeb-1357/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" />
+</picture>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
 
 <div align="center">
 
-### 📡 `connect --with=me`
+*Always up for learning, experimenting, collaborating, or just talking about cool tech.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://areeb-1357.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/Areeb-1357)
+**[areebbasheer17@gmail.com](mailto:areebbasheer17@gmail.com)** · **[Portfolio](https://areeb-1357.github.io/)** · **[GitHub](https://github.com/Areeb-1357)**
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=600&lines=this+profile+is+a+living+build...;check+back+%E2%80%94+it+keeps+shipping." alt="Footer Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=22&duration=900&pause=300&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=this+profile+is+a+living+build...;check+back+%E2%80%94+it+keeps+shipping." alt="Footer Typing SVG" />
 
 </div>
+
+```console
+$ exit
+logout
+Connection to github.com/Areeb-1357 closed.
+```

@@ -37,7 +37,7 @@
   <g opacity="0">
     <animate attributeName="opacity" dur="22s" repeatCount="indefinite" calcMode="discrete"
       keyTimes="0;0.04545;0.04545;1" values="0;0;1;1"/>
-    <text x="34" y="150"><tspan class="blue">areeb basheer</tspan><tspan class="muted"> — aiml student · python tooling · web dev · India</tspan></text>
+    <text x="34" y="150"><tspan class="blue">areeb basheer</tspan><tspan class="muted"> — aiml student · python tooling · web dev · India · Hyderabad</tspan></text>
   </g>
 
   <!-- 3: nmap prompt -->

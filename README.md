@@ -26,7 +26,6 @@
 
 I'm an **AIML student** who drifted into code by curiosity and stayed for the craft. My work lives somewhere between experimenting and shipping — learning how things work by building small, honest versions of them, breaking them on purpose, and occasionally finishing something that runs.
 
-<sub>Everything below is generated straight from what's actually on my [portfolio](https://areeb-1357.github.io/) — no filler, no vaporware.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
 

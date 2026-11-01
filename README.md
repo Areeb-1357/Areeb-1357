@@ -12,6 +12,16 @@
 &nbsp;
 ![Status](https://img.shields.io/badge/UPLINK-ACTIVE-00FF9C?style=for-the-badge&labelColor=0d1117)
 
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00FF9C)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=00FF9C)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00FF9C)
+![Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=00FF9C)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=00FF9C)
+
 </div>
 
 I'm an **AIML student** who drifted into code by curiosity and stayed for the craft. My work lives somewhere between experimenting and shipping — learning how things work by building small, honest versions of them, breaking them on purpose, and occasionally finishing something that runs.
@@ -50,14 +60,14 @@ session:
 ## `$ whoami --verbose`
 
 ```
-┌──────────────────────────────┐
+┌───────────────────────────────┐
 │  USER      : areeb basheer    │
 │  ROLE      : aiml student     │
 │  CLEARANCE : level_1          │
 │  FOCUS     : ai / ml / web    │
 │  UPTIME    : still_learning   │
 │  STATUS    : ● ONLINE         │
-└──────────────────────────────┘
+└───────────────────────────────┘
 
 > curiosity_module .... maxed
 > shipping_streak ..... active
@@ -79,19 +89,6 @@ session:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
 
-## `$ cat path.log`
-
-| step | status |
-|---|---|
-| 01 · Programming foundations | ✅ done |
-| 02 · First real build (CLI expense tracker) | ✅ done |
-| 03 · Into the browser (calculator, quiz app) | ✅ done |
-| 04 · Data & the maths behind ML | 🟡 in progress |
-| 05 · First models (regression, classification) | ⬜ next |
-| 06 · A model with a front end | ⬜ planned |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&width=100%" />
-
 ## `$ stats.exe --deep-scan`
 
 <div align="center">
@@ -99,15 +96,9 @@ session:
 <img src="https://github-readme-stats.vercel.app/api?username=Areeb-1357&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb-1357&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&border_radius=12" width="38%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeb-1357&theme=react&hide_border=true&background=0d1117&ring=8A2BE2&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=c9d1d9&border=0d1117&border_radius=12" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=Areeb-1357&theme=react&hide_border=true&background=0d1117&ring=8A2BE2&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=c9d1d9&border_radius=12" width="60%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeb-1357&theme=react-dark&bg_color=0d1117&color=00FF9C&line=8A2BE2&point=ffffff&hide_border=true&area=true" width="97%" />
-
-<br/>
-
-### 🏆 `trophy --unlock --rare`
-
-<img src="https://github-profile-trophy.vercel.app/?username=Areeb-1357&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
 

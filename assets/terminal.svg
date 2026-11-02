@@ -1,228 +1,310 @@
-<svg viewBox="0 0 940 880" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'JetBrains Mono', 'Consolas', monospace">
+<svg viewBox="0 0 940 1010" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','DejaVu Sans Mono',monospace">
   <defs>
     <style>
-      .win   { fill: #1a1b26; }
-      .top   { fill: #16161e; }
       .muted { fill: #565f89; }
       .fg    { fill: #c0caf5; }
       .blue  { fill: #7aa2f7; }
+      .cyan  { fill: #7dcfff; }
       .green { fill: #9ece6a; }
       .purple{ fill: #bb9af7; }
       .yellow{ fill: #e0af68; }
-      t { font-size: 16px; }
+      .pre   { white-space: pre; }
     </style>
+
+    <linearGradient id="winbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1c29"/>
+      <stop offset="1" stop-color="#15161f"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7dcfff" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#bb9af7" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#7aa2f7" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dcfff"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+    <linearGradient id="payfill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9ece6a"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 40) scale(620)">
+      <stop offset="0" stop-color="#bb9af7" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 1010) scale(620)">
+      <stop offset="0" stop-color="#7dcfff" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#7dcfff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.8" fill="#7aa2f7" fill-opacity=".1"/>
+    </pattern>
+
+    <clipPath id="win"><rect width="940" height="1010" rx="14"/></clipPath>
+
+    <!-- typing wipes -->
+    <clipPath id="c1"><rect x="30" y="102" height="28" width="0">
+      <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.007;0.0154;1" values="0;0;420;420"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="30" y="172" height="28" width="0">
+      <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.0386;0.0473;1" values="0;0;420;420"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="30" y="426" height="28" width="0">
+      <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.108;0.1183;1" values="0;0;420;420"/>
+    </rect></clipPath>
+    <clipPath id="c4"><rect x="30" y="636" height="28" width="0">
+      <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.1851;0.1954;1" values="0;0;420;420"/>
+    </rect></clipPath>
+    <clipPath id="c5"><rect x="30" y="808" height="28" width="0">
+      <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.2417;0.2623;1" values="0;0;560;560"/>
+    </rect></clipPath>
+    <clipPath id="payClip"><rect x="248" y="872" height="16" width="0" rx="2">
+      <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.2906;0.324;1" values="0;0;220;220"/>
+    </rect></clipPath>
   </defs>
 
-  <!-- window chrome (static) -->
-  <rect x="0" y="0" width="940" height="880" rx="14" class="win"/>
-  <rect x="0" y="0" width="940" height="40" rx="14" class="top"/>
-  <rect x="0" y="26" width="940" height="14" class="top"/>
-  <circle cx="28" cy="20" r="6" fill="#f7768e"/>
-  <circle cx="50" cy="20" r="6" fill="#e0af68"/>
-  <circle cx="72" cy="20" r="6" fill="#9ece6a"/>
-  <text x="470" y="25" text-anchor="middle" class="muted"><tspan style="font-size:14px">Areeb-1357 / README.md</tspan></text>
+  <!-- window -->
+  <rect width="940" height="1010" rx="14" fill="url(#winbg)"/>
+  <g clip-path="url(#win)">
+    <rect width="940" height="1010" fill="url(#dots)"/>
+    <rect width="940" height="1010" fill="url(#glowA)"/>
+    <rect width="940" height="1010" fill="url(#glowB)"/>
 
-  <text x="34" y="76" class="green"><tspan>●</tspan></text>
-  <text x="52" y="76" class="blue"><tspan style="font-size:17px">[0] areeb@arch:~</tspan></text>
-  <text x="906" y="76" text-anchor="end" class="muted"><tspan style="font-size:15px">tokyonight · 2026-09-25</tspan></text>
+    <!-- title bar -->
+    <rect width="940" height="40" fill="#16161e"/>
+    <circle cx="28" cy="20" r="6" fill="#f7768e"/>
+    <circle cx="50" cy="20" r="6" fill="#e0af68"/>
+    <circle cx="72" cy="20" r="6" fill="#9ece6a"/>
+    <text x="906" y="26" text-anchor="end" class="muted" style="font-size:12px">Areeb-1357</text>
+    <rect y="40" width="940" height="1" fill="#2a2e42"/>
 
-  <!-- 1: whoami prompt -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.01364;0.01364;1" values="0;0;1;1"/>
-    <text x="34" y="122"><tspan class="purple">&gt; </tspan><tspan class="fg">whoami</tspan></text>
+    <!-- session header -->
+    <text x="34" y="76" class="green"><tspan>●</tspan></text>
+    <text x="52" y="76" class="blue"><tspan style="font-size:17px">[0] areeb@arch:~</tspan></text>
+    <text x="906" y="76" text-anchor="end" class="muted"><tspan style="font-size:15px">tokyonight · 2026-11-02</tspan></text>
+
+    <!-- ============ content (fades at loop end) ============ -->
+    <g>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" keyTimes="0;0.93;0.97;1" values="1;1;0;0"/>
+
+      <!-- whoami -->
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.007;1" values="0;1;1"/>
+        <text x="34" y="122" clip-path="url(#c1)"><tspan class="purple">&gt; </tspan><tspan class="fg">whoami</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0234;1" values="0;1;1"/>
+        <text x="34" y="150"><tspan class="blue">areeb basheer</tspan><tspan class="muted"> — aiml student · python tooling · web dev · India · Hyderabad</tspan></text>
+      </g>
+
+      <!-- neofetch -->
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0386;1" values="0;1;1"/>
+        <text x="34" y="192" clip-path="url(#c2)"><tspan class="purple">&gt; </tspan><tspan class="fg">neofetch</tspan></text>
+      </g>
+
+      <!-- logo -->
+      <g fill="url(#brand)" class="pre" xml:space="preserve">
+        <text x="34" y="232" opacity="0" xml:space="preserve" class="pre">    ___    ____ <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.054;1" values="0;1;1"/></text>
+        <text x="34" y="254" opacity="0" xml:space="preserve" class="pre">   /   |  / __ )<animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0576;1" values="0;1;1"/></text>
+        <text x="34" y="276" opacity="0" xml:space="preserve" class="pre">  / /| | / __  |<animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0612;1" values="0;1;1"/></text>
+        <text x="34" y="298" opacity="0" xml:space="preserve" class="pre"> / ___ |/ /_/ / <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0648;1" values="0;1;1"/></text>
+        <text x="34" y="320" opacity="0" xml:space="preserve" class="pre">/_/  |_/_____/  <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0684;1" values="0;1;1"/></text>
+      </g>
+
+      <!-- info -->
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0566;1" values="0;1;1"/>
+        <text x="300" y="226" fill="url(#brand)" font-weight="700">areeb@arch</text>
+        <path d="M300 236H470" stroke="#565f89" stroke-opacity=".6"/>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0617;1" values="0;1;1"/>
+        <text y="266"><tspan class="blue" x="300">role</tspan><tspan class="fg" x="380">aiml student</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0669;1" values="0;1;1"/>
+        <text y="288"><tspan class="blue" x="300">stack</tspan><tspan class="fg" x="380">python · html · css · javascript</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.072;1" values="0;1;1"/>
+        <text y="310"><tspan class="blue" x="300">tools</tspan><tspan class="fg" x="380">git · github · vscode</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0771;1" values="0;1;1"/>
+        <text y="332"><tspan class="blue" x="300">focus</tspan><tspan class="fg" x="380">dsa · ml foundations · web projects</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0823;1" values="0;1;1"/>
+        <text y="354"><tspan class="blue" x="300">shell</tspan><tspan class="fg" x="380">curiosity.exe</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0874;1" values="0;1;1"/>
+        <text y="376"><tspan class="blue" x="300">status</tspan><tspan class="green" x="380">● learning &amp; building</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0926;1" values="0;1;1"/>
+        <rect x="300" y="392" width="22" height="12" rx="2" fill="#f7768e"/>
+        <rect x="326" y="392" width="22" height="12" rx="2" fill="#ff9e64"/>
+        <rect x="352" y="392" width="22" height="12" rx="2" fill="#e0af68"/>
+        <rect x="378" y="392" width="22" height="12" rx="2" fill="#9ece6a"/>
+        <rect x="404" y="392" width="22" height="12" rx="2" fill="#73daca"/>
+        <rect x="430" y="392" width="22" height="12" rx="2" fill="#7dcfff"/>
+        <rect x="456" y="392" width="22" height="12" rx="2" fill="#7aa2f7"/>
+        <rect x="482" y="392" width="22" height="12" rx="2" fill="#bb9af7"/>
+      </g>
+
+      <!-- nmap -->
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.108;1" values="0;1;1"/>
+        <text x="34" y="446" clip-path="url(#c3)"><tspan class="purple">&gt; </tspan><tspan class="fg">nmap -sV localhost</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1234;1" values="0;1;1"/>
+        <text y="476">
+          <tspan class="muted" x="34">PORT</tspan>
+          <tspan class="muted" x="150">STATE</tspan>
+          <tspan class="muted" x="250">SERVICE</tspan>
+          <tspan class="muted" x="400">VERSION</tspan>
+        </text>
+        <path d="M34 486H730" stroke="#565f89" stroke-opacity=".45"/>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1311;1" values="0;1;1"/>
+        <text y="508">
+          <tspan class="fg" x="34">22/tcp</tspan>
+          <tspan class="green" x="150">open</tspan>
+          <tspan class="blue" x="250">python</tspan>
+          <tspan class="muted" x="400">scripting · automation · CLI tools</tspan>
+        </text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1389;1" values="0;1;1"/>
+        <rect x="26" y="517" width="712" height="26" rx="4" fill="#7aa2f7" fill-opacity=".06"/>
+        <text y="535">
+          <tspan class="fg" x="34">80/tcp</tspan>
+          <tspan class="green" x="150">open</tspan>
+          <tspan class="blue" x="250">web</tspan>
+          <tspan class="muted" x="400">html · css · js</tspan>
+        </text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1466;1" values="0;1;1"/>
+        <text y="562">
+          <tspan class="fg" x="34">443/tcp</tspan>
+          <tspan class="green" x="150">open</tspan>
+          <tspan class="blue" x="250">ai-ml</tspan>
+          <tspan class="muted" x="400">numpy · pandas · sklearn (learning)</tspan>
+        </text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1543;1" values="0;1;1"/>
+        <rect x="26" y="571" width="712" height="26" rx="4" fill="#7aa2f7" fill-opacity=".06"/>
+        <text y="589">
+          <tspan class="fg" x="34">1337/tcp</tspan>
+          <tspan class="green" x="150">open</tspan>
+          <tspan class="blue" x="250">dsa</tspan>
+          <tspan class="muted" x="400">leetcode · always grinding</tspan>
+        </text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1671;1" values="0;1;1"/>
+        <text x="34" y="624" class="muted">4 services up — host is very much alive.</text>
+      </g>
+
+      <!-- git log -->
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1851;1" values="0;1;1"/>
+        <text x="34" y="656" clip-path="url(#c4)"><tspan class="purple">&gt; </tspan><tspan class="fg">git log --oneline -5</tspan></text>
+      </g>
+      <path d="M38 686V790" stroke="#bb9af7" stroke-width="1.5" stroke-opacity="0">
+        <animate attributeName="stroke-opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2031;1" values="0;.5;.5"/>
+      </path>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2031;1" values="0;1;1"/>
+        <text x="34" y="690" class="purple">*</text>
+        <text x="54" y="690"><tspan class="yellow">a1f9c3e</tspan><tspan class="green"> (HEAD -&gt; main)</tspan><tspan class="muted"> feat: add category totals to expense tracker</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2083;1" values="0;1;1"/>
+        <text x="34" y="716" class="purple">*</text>
+        <text x="54" y="716"><tspan class="yellow">7b2e88d</tspan><tspan class="muted"> feat: DEADLOOP // open-world map pass</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2134;1" values="0;1;1"/>
+        <text x="34" y="742" class="purple">*</text>
+        <text x="54" y="742"><tspan class="yellow">4d61a0f</tspan><tspan class="muted"> feat: decision agent - comparison scoring</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2186;1" values="0;1;1"/>
+        <text x="34" y="768" class="purple">*</text>
+        <text x="54" y="768"><tspan class="yellow">9c0e2f1</tspan><tspan class="muted"> style: portfolio project card refresh</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2237;1" values="0;1;1"/>
+        <text x="34" y="794" class="purple">*</text>
+        <text x="54" y="794"><tspan class="yellow">e5a1d77</tspan><tspan class="muted"> chore: more DSA reps on LeetCode</tspan></text>
+      </g>
+
+      <!-- exploit -->
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2417;1" values="0;1;1"/>
+        <text x="34" y="828" clip-path="url(#c5)"><tspan class="purple">&gt; </tspan><tspan class="fg">sudo ./exploit --target comfort_zone</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2777;1" values="0;1;1"/>
+        <text x="34" y="856" class="muted"><tspan>[sudo] password for areeb: </tspan><tspan class="fg">········</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.288;1" values="0;1;1"/>
+        <text x="34" y="884" class="green"><tspan>[+] payload delivered [</tspan></text>
+        <rect x="248" y="872" width="220" height="16" rx="2" fill="#292e42"/>
+      </g>
+      <rect x="248" y="872" width="0" height="16" rx="2" fill="url(#payfill)">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.2906;0.324;1" values="0;0;220;220"/>
+      </rect>
+      <g clip-path="url(#payClip)">
+        <rect x="248" y="872" width="50" height="16" fill="url(#shine)">
+          <animate attributeName="x" dur="14s" repeatCount="indefinite" keyTimes="0;0.2906;0.324;1" values="190;190;446;446"/>
+        </rect>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.324;1" values="0;1;1"/>
+        <text x="474" y="884" class="green"><tspan>] 100%</tspan></text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3369;1" values="0;1;1"/>
+        <text x="34" y="912"><tspan class="green">[+] persistence established</tspan><tspan class="muted"> — now shipping, one commit at a time.</tspan></text>
+      </g>
+
+      <!-- final prompt -->
+      <g opacity="0">
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3549;1" values="0;1;1"/>
+        <text x="34" y="948" class="purple">&gt;</text>
+        <rect x="54" y="934" width="9" height="17" fill="#7dcfff">
+          <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.5;1" values="1;0;1"/>
+        </rect>
+      </g>
+    </g>
+
+    <!-- status bar (always on) -->
+    <rect x="0" y="970" width="940" height="40" fill="#16161e"/>
+    <rect x="0" y="970" width="940" height="1" fill="#2a2e42"/>
+    <path d="M0 970H108L120 990L108 1010H0Z" fill="#7aa2f7"/>
+    <text x="16" y="995" fill="#16161e" font-weight="700" style="font-size:13px">areeb</text>
+    <path d="M120 970H128L140 990L128 1010H120L132 990Z" fill="#7aa2f7" fill-opacity=".35"/>
+    <text x="154" y="995" class="muted" style="font-size:12px">0:main*   1:dsa   2:ml   3:web</text>
+    <circle cx="738" cy="990" r="4" fill="#9ece6a">
+      <animate attributeName="opacity" dur="1.6s" repeatCount="indefinite" values="1;.35;1"/>
+    </circle>
+    <text x="752" y="995" class="green" style="font-size:12px">open to collabs</text>
+    <text x="906" y="995" text-anchor="end" class="muted" style="font-size:12px">IST</text>
   </g>
 
-  <!-- 2: whoami response -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.04545;0.04545;1" values="0;0;1;1"/>
-    <text x="34" y="150"><tspan class="blue">areeb basheer</tspan><tspan class="muted"> — aiml student · python tooling · web dev · India · Hyderabad</tspan></text>
-  </g>
-
-  <!-- 3: nmap prompt -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.08182;0.08182;1" values="0;0;1;1"/>
-    <text x="34" y="192"><tspan class="purple">&gt; </tspan><tspan class="fg">nmap -sV localhost</tspan></text>
-  </g>
-
-  <!-- 4: table header -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.11818;0.11818;1" values="0;0;1;1"/>
-    <text x="34" y="222">
-      <tspan class="muted" x="34">PORT</tspan>
-      <tspan class="muted" x="150">STATE</tspan>
-      <tspan class="muted" x="250">SERVICE</tspan>
-      <tspan class="muted" x="400">VERSION</tspan>
-    </text>
-  </g>
-
-  <!-- 5: row1 -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.13636;0.13636;1" values="0;0;1;1"/>
-    <text x="34" y="250">
-      <tspan class="fg" x="34">22/tcp</tspan>
-      <tspan class="green" x="150">open</tspan>
-      <tspan class="blue" x="250">python</tspan>
-      <tspan class="muted" x="400">scripting · automation · CLI tools</tspan>
-    </text>
-  </g>
-
-  <!-- 6: row2 -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.15455;0.15455;1" values="0;0;1;1"/>
-    <text x="34" y="278">
-      <tspan class="fg" x="34">80/tcp</tspan>
-      <tspan class="green" x="150">open</tspan>
-      <tspan class="blue" x="250">web</tspan>
-      <tspan class="muted" x="400">html · css · js</tspan>
-    </text>
-  </g>
-
-  <!-- 7: row3 -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.17273;0.17273;1" values="0;0;1;1"/>
-    <text x="34" y="306">
-      <tspan class="fg" x="34">443/tcp</tspan>
-      <tspan class="green" x="150">open</tspan>
-      <tspan class="blue" x="250">ai-ml</tspan>
-      <tspan class="muted" x="400">numpy · pandas · sklearn (learning)</tspan>
-    </text>
-  </g>
-
-  <!-- 8: row4 -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.19091;0.19091;1" values="0;0;1;1"/>
-    <text x="34" y="334">
-      <tspan class="fg" x="34">1337/tcp</tspan>
-      <tspan class="green" x="150">open</tspan>
-      <tspan class="blue" x="250">dsa</tspan>
-      <tspan class="muted" x="400">leetcode · always grinding</tspan>
-    </text>
-  </g>
-
-  <!-- 9: summary -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.21818;0.21818;1" values="0;0;1;1"/>
-    <text x="34" y="366" class="muted"><tspan>4 services up — host is very much alive.</tspan></text>
-  </g>
-
-  <!-- 10: git log prompt -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.25455;0.25455;1" values="0;0;1;1"/>
-    <text x="34" y="408"><tspan class="purple">&gt; </tspan><tspan class="fg">git log --oneline -5</tspan></text>
-  </g>
-
-  <!-- 11-15: commits -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.29091;0.29091;1" values="0;0;1;1"/>
-    <text x="34" y="436"><tspan class="yellow">a1f9c3e</tspan><tspan class="muted"> feat: add category totals to expense tracker</tspan></text>
-  </g>
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.30455;0.30455;1" values="0;0;1;1"/>
-    <text x="34" y="462"><tspan class="yellow">7b2e88d</tspan><tspan class="muted"> feat: DEADLOOP // open-world map pass</tspan></text>
-  </g>
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.31818;0.31818;1" values="0;0;1;1"/>
-    <text x="34" y="488"><tspan class="yellow">4d61a0f</tspan><tspan class="muted"> feat: decision agent - comparison scoring</tspan></text>
-  </g>
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.33182;0.33182;1" values="0;0;1;1"/>
-    <text x="34" y="514"><tspan class="yellow">9c0e2f1</tspan><tspan class="muted"> style: portfolio project card refresh</tspan></text>
-  </g>
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.34545;0.34545;1" values="0;0;1;1"/>
-    <text x="34" y="540"><tspan class="yellow">e5a1d77</tspan><tspan class="muted"> chore: more DSA reps on LeetCode</tspan></text>
-  </g>
-
-  <!-- 16: skills prompt -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.37273;0.37273;1" values="0;0;1;1"/>
-    <text x="34" y="582"><tspan class="purple">&gt; </tspan><tspan class="fg">cat skills.txt</tspan></text>
-  </g>
-
-  <!-- 17-19: skills output -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.40909;0.40909;1" values="0;0;1;1"/>
-    <text x="34" y="610"><tspan class="muted">languages </tspan><tspan class="fg">: python, html, css, javascript</tspan></text>
-  </g>
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.42273;0.42273;1" values="0;0;1;1"/>
-    <text x="34" y="636"><tspan class="muted">tools     </tspan><tspan class="fg">: git, github, vscode</tspan></text>
-  </g>
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.43636;0.43636;1" values="0;0;1;1"/>
-    <text x="34" y="662"><tspan class="muted">currently </tspan><tspan class="fg">: dsa · ml foundations · web projects</tspan></text>
-  </g>
-
-  <!-- 20: exploit prompt -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.47273;0.47273;1" values="0;0;1;1"/>
-    <text x="34" y="704"><tspan class="purple">&gt; </tspan><tspan class="fg">sudo ./exploit --target comfort_zone</tspan></text>
-  </g>
-
-  <!-- 21: password -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.50909;0.50909;1" values="0;0;1;1"/>
-    <text x="34" y="732" class="muted"><tspan>[sudo] password for areeb: </tspan><tspan class="fg">········</tspan></text>
-  </g>
-
-  <!-- 22: payload label + bar bg -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.52727;0.52727;1" values="0;0;1;1"/>
-    <text x="34" y="760" class="green"><tspan>[+] payload delivered [</tspan></text>
-    <rect x="248" y="748" width="220" height="16" rx="2" fill="#292e42"/>
-  </g>
-
-  <!-- bar fill -->
-  <rect x="248" y="748" width="0" height="16" rx="2" fill="#9ece6a">
-    <animate attributeName="width" dur="9s" repeatCount="indefinite" calcMode="linear"
-      keyTimes="0;0.53636;0.6;1" values="0;0;220;220"/>
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.53636;0.53636;1" values="0;0;1;1"/>
-  </rect>
-
-  <!-- closing bracket + percent -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.6;0.6;1" values="0;0;1;1"/>
-    <text x="474" y="760" class="green"><tspan>] 100%</tspan></text>
-  </g>
-
-  <!-- 23: persistence -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.62273;0.62273;1" values="0;0;1;1"/>
-    <text x="34" y="788"><tspan class="green">[+] persistence established</tspan><tspan class="muted"> — learning daemon is now running.</tspan></text>
-  </g>
-
-  <!-- 24: final blinking prompt -->
-  <g opacity="0">
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
-      keyTimes="0;0.65;0.65;1" values="0;0;1;1"/>
-    <text x="34" y="824" class="purple">
-      <tspan>&gt;</tspan>
-      <animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;0;1"/>
-    </text>
-  </g>
+  <rect x="0.75" y="0.75" width="938.5" height="1008.5" rx="14" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
 </svg>
